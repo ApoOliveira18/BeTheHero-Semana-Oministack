@@ -1,3 +1,1 @@
-# AppsFullStack
-# AppsFullStack
-# AppsFullStack
+Frontend + Backend + App Mobile
