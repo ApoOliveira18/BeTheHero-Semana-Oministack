@@ -82,7 +82,7 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) for details
 
 ---
 
-Made with ♥ by Daniel Obara :wave: [Get in touch!](https://www.linkedin.com/in/danielobara/)
+Made with ♥ by Adilson Oliveira :wave: [Get in touch!](https://)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
