@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src=".github/logo.svg" width="250px" />
+    <img alt="BeTheHero" title="#BeTheHero" src="https://github.com/ApoOliveira18/AppsFullStack/blob/master/frontend/src/assets/logo.svg" width="250px" />
 </h1>
 
 <h4 align="center"> 
@@ -20,8 +20,7 @@
 Be The Hero is a project that aims to connect people who are willing to help ONGs.
 
 <h1 align="center">
-    <img alt="Login-Page" title="Login-Page" src="https://github.com/ApoOliveira18/AppsFullStack/blob/master/frontend/src/assets/heroes.png" 
-	 width="500px" />
+    <img alt="Login-Page" title="Login-Page" src="https://github.com/ApoOliveira18/AppsFullStack/blob/master/frontend/src/assets/heroes.png" width="500px" />
 </h1>
 
 
