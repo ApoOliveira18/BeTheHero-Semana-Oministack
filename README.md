@@ -46,8 +46,7 @@ From your command line:
 ### Install API
 ```bash
 # Clone this repository
-$ git clone https://github.com/ApoOliveira18/SemanaOmnistack11
-
+$ git clone https://github.com/ApoOliveira18/AppsFullStack.git
 # Go into the repository
 $ cd SemanaOmnistack11/backend
 
