@@ -48,9 +48,9 @@ From your command line:
 # Clone this repository
 $ git clone https://github.com/ApoOliveira18/AppsFullStack.git
 # Go into the repository
-$ cd SemanaOmnistack11/backend
+$ cd SemanaOmnistack11/
 
-# Install dependencies
+# Install dependencies for each subdirectories (frontend/backend/mobile)
 $ yarn install
 
 # Run Migrates
