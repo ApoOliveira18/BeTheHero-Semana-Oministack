@@ -81,7 +81,8 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) for details
 
 ---
 
-Made with ♥ by Adilson Oliveira :wave: [Get in touch!](https://)
+Feito com ♥ && 🎧 && 😊 || 😥 
+ por Adilson Oliveira :wave: [Get in touch!] www.linkedin.com/in/adilson-p-oliveira
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
