@@ -22,7 +22,7 @@ Be The Hero is a project that aims to connect people who are willing to help ONG
 ## 📱 Interfaces  
 
 <p align="center">
-    <img alt="Logon" title="Logon" src="frontend/src/assets/and.gif" width="500px" />&nbsp;
+    <img alt="Logon" title="Logon" src="frontend/src/assets/and.gif" width="200px" />&nbsp;
    
 </p>
 
