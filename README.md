@@ -36,7 +36,7 @@ Be The Hero is a project that aims to connect people who are willing to help ONG
 </p>
 <p align="center">
     <img alt="Faça seu logon" title="Faça seu logon" src="frontend/src/assets/log.png" width="265px" />&nbsp;
-    <img alt="Casos cadastrados" title="Casos cadastrados" src="frontend/src/assets/casos.png" width="395px" />
+    <img alt="Casos cadastrados" title="Casos cadastrados" src="frontend/src/assets/casos.png" width="360px" />
 </p>
 
 
