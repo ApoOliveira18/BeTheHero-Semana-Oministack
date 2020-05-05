@@ -27,16 +27,16 @@ Be The Hero is a project that aims to connect people who are willing to help ONG
 </p>
 
 <p align="center">
-    <img alt="Logon" title="Logon" src="frontend/src/assets/home.png" width="375px" />&nbsp;
-    <img alt="Cadastro" title="Cadastro" src="frontend/src/assets/cad.png" width="493px" />
+    <img alt="Logon" title="Logon" src="frontend/src/assets/home.png" width="275px" />&nbsp;
+    <img alt="Cadastro" title="Cadastro" src="frontend/src/assets/cad.png" width="393px" />
 </p>
 <p align="center">
-    <img alt="Cadastrar novo caso" title="Cadastrar novo caso" src="frontend/src/assets/cadCaso.png" width="450px" />
-    <img alt="Cadastro" title="Cadastro" src="frontend/src/assets/cadFin.png" width="420px" />
+    <img alt="Cadastrar novo caso" title="Cadastrar novo caso" src="frontend/src/assets/cadCaso.png" width="350px" />
+    <img alt="Cadastro" title="Cadastro" src="frontend/src/assets/cadFin.png" width="320px" />
 </p>
 <p align="center">
-    <img alt="Faça seu logon" title="Faça seu logon" src="frontend/src/assets/log.png" width="365px" />&nbsp;
-    <img alt="Casos cadastrados" title="Casos cadastrados" src="frontend/src/assets/casos.png" width="495px" />
+    <img alt="Faça seu logon" title="Faça seu logon" src="frontend/src/assets/log.png" width="265px" />&nbsp;
+    <img alt="Casos cadastrados" title="Casos cadastrados" src="frontend/src/assets/casos.png" width="395px" />
 </p>
 
 
