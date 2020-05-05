@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	:heavy_check_mark: 🚀 Semana OmniStack 11.0 :heavy_check_mark:
+	:heavy_check_mark: 🚀 Week OmniStack 11.0 :heavy_check_mark:
 </h4>
 
 <p align="center">
