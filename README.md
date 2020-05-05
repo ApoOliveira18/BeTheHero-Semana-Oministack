@@ -21,7 +21,7 @@ Be The Hero is a project that aims to connect people who are willing to help ONG
 
 <h1 align="center">
     <img alt="Login-Page" title="Login-Page" src="frontend/src/assets/home.png" width="400px" />
-    <img alt="Login-Page" title="Login-Page" src="frontend/src/assets/cap.png" width="400px" />
+    <img alt="Login-Page" title="Login-Page" src="frontend/src/assets/cad.png" width="400px" />
 </h1>
 
 
