@@ -19,6 +19,8 @@
 
 Be The Hero is a project that aims to connect people who are willing to help ONGs.
 
+## 📱💻📇 Algumas Interfaces  
+
 <p align="center">
     <img alt="Logon" title="Logon" src="frontend/src/assets/home.png" width="375px" />&nbsp;
     <img alt="Cadastro" title="Cadastro" src="frontend/src/assets/cad.png" width="493px" />
