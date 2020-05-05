@@ -19,10 +19,18 @@
 
 Be The Hero is a project that aims to connect people who are willing to help ONGs.
 
-<h1 align="center">
+<p align="center">
     <img alt="Login-Page" title="Login-Page" src="frontend/src/assets/home.png" width="350px" />
     <img alt="Login-Page" title="Login-Page" src="frontend/src/assets/cad.png" width="450px" />
-</h1>
+</p>
+<p align="center">
+    <img alt="Login-Page" title="Login-Page" src="frontend/src/assets/cadCaso.png" width="350px" />
+    <img alt="Login-Page" title="Login-Page" src="frontend/src/assets/cadFin.png" width="450px" />
+</p>
+<p align="center">
+    <img alt="Login-Page" title="Login-Page" src="frontend/src/assets/log.png" width="350px" />
+    <img alt="Login-Page" title="Login-Page" src="frontend/src/assets/casos.png" width="450px" />
+</p>
 
 
 ## :rocket: Technologies
